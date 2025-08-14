@@ -11,6 +11,13 @@
 <!-- 🎭 QUICK INTRO -->
 <h3 align="center">🔭 I turn coffee into code and ideas into reality</h3>
 
+
+
+## 🚀 Featured Projects
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Home&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Home)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=username&repo=spotify-visualizer&theme=tokyonight)](https://github.com/username/spotify-visualizer)
+
 <!-- 📊 GITHUB STATS CARDS -->
 <div align="center">
   
