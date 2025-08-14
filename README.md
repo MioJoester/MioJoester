@@ -45,7 +45,9 @@
 <!-- 🎵 SPOTIFY NOW PLAYING -->
 <h3 align="center">🎧 Currently Vibing To</h3>
 <div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgbx2hyxtomfbbhxdibou5lh7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile);
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgbx2hyxtomfbbhxdibou5lh7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+  
  </div>
 
 <!-- 🛠️ TECH STACK -->
