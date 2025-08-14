@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Welcome Banner"/>
 </div>
 
-![GitHub globe](https://globe-readme.vercel.app/globe/MioJoester)
+![3-D globe](https://github-profile-3d-globe.vercel.app/?username=MioJoester)
 
 <!-- 🎯 TYPING ANIMATION INTRO -->
 <p align="center">
