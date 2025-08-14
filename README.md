@@ -23,12 +23,6 @@
 
 
 
-### Dreamy-Time 
-A Sleep tracker app with crisp visuals.
-
-![Gameplay Demo](https://MioJoester.github.io/Dreamy-Time/asset/og-shot.png)
-
-
 
 <!-- 📊 GITHUB STATS CARDS -->
 <div align="center">
