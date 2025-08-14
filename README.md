@@ -84,11 +84,9 @@
 
 </div>
 
-<!-- 🎯 FUN FACTS SECTION -->
-<h3 align="center">💡 Fun Facts About Me</h3>
-<div align="center">
+
   
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MioJoester.MioJoester&left_color=grey&right_color=brightgreen) 
+ 
 
 <!-- 🌟 DYNAMIC JOKE -->
 
