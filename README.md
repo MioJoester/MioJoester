@@ -97,10 +97,10 @@ A Sleep tracker app with crisp visuals.
 <h3 align="center">💡 Fun Facts About Me</h3>
 <div align="center">
   
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MioJoester.MioJoester&left_text=Profile%20Visitors&right_text=Awesome%20People)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=MioJoester.MioJoester&left_color=grey&right_color=brightgreen) 
 
 <!-- 🌟 DYNAMIC JOKE -->
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&borderColor=00F5D4&codeColor=FFF&qColor=00F5D4)
+
 
 </div>
 
