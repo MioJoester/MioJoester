@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Welcome Banner"/>
 </div>
 
+![GitHub globe](https://globe-readme.vercel.app/globe/MioJoester)
+
 <!-- 🎯 TYPING ANIMATION INTRO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F5D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing Animation"/>
