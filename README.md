@@ -65,7 +65,7 @@
 <h3 align="center">🎧 Currently Vibing To</h3>
 <div align="center">
 
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgbx2hyxtomfbbhxdibou5lh7e&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgbx2hyxtomfbbhxdibou5lh7e&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
  </div>
 
