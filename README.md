@@ -15,7 +15,7 @@
 <div align="center">
   
 <!-- 🏆 TROPHY SECTION -->
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
+![trophy](https://github-profile-trophy.vercel.app/?username=MioJoester&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
 
 </div>
 
@@ -23,15 +23,15 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=MioJoester&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react&hide_border=true&background=0D1117" alt="Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MioJoester&theme=react&hide_border=true&background=0D1117" alt="Streak Stats"/>
     </td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
 <h3 align="center">🌟 Recent Activity Magic</h3>
 
 <!-- 📅 GITHUB ACTIVITY GRAPH -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MioJoester&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
 
 <!-- 🎵 SPOTIFY NOW PLAYING -->
 <h3 align="center">🎧 Currently Vibing To</h3>
@@ -54,11 +54,7 @@
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -68,7 +64,7 @@
 <h3 align="center">💡 Fun Facts About Me</h3>
 <div align="center">
   
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=YOUR_USERNAME.YOUR_USERNAME&left_text=Profile%20Visitors&right_text=Awesome%20People)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=MioJoester.MioJoester&left_text=Profile%20Visitors&right_text=Awesome%20People)
 
 <!-- 🌟 DYNAMIC JOKE -->
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical&borderColor=00F5D4&codeColor=FFF&qColor=00F5D4)
@@ -92,7 +88,7 @@
 </div>
 
 <!-- 🐍 SNAKE ANIMATION -->
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MioJoester/MioJoester/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 🌟 FOOTER -->
 <div align="center">
