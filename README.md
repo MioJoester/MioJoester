@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" alt="Welcome Banner"/>
 </div>
 
-![3-D globe](https://github-profile-3d-globe.vercel.app/?username=MioJoester)
+
 
 <!-- 🎯 TYPING ANIMATION INTRO -->
 <p align="center">
@@ -61,11 +61,6 @@ A Sleep tracker app with crisp visuals.
 <!-- 📅 GITHUB ACTIVITY GRAPH -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MioJoester&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
 
-
-![3D Profile](./3d-contrib/profile-night-rainbow.svg)
-
-
-![snake gif](https://github.com/MioJoester/MioJOester/blob/output/github-contribution-grid-snake.svg)
 
 
 
