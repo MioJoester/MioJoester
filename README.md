@@ -59,6 +59,17 @@ A Sleep tracker app with crisp visuals.
 <!-- 📅 GITHUB ACTIVITY GRAPH -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MioJoester&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
 
+
+![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+![snake gif](https://github.com/MioJoester/MioJoester/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
+
+
 <!-- 🎵 SPOTIFY NOW PLAYING -->
 <h3 align="center">🎧 Currently Vibing To</h3>
 <div align="center">
