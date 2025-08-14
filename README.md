@@ -63,7 +63,7 @@ A Sleep tracker app with crisp visuals.
 ![3D Profile](./3d-contrib/profile-night-rainbow.svg)
 
 
-![snake gif](https://github.com/MioJoester/MioJoester/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MioJoester/MioJOester/blob/output/github-contribution-grid-snake.svg)
 
 
 
