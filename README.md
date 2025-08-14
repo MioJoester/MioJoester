@@ -45,7 +45,7 @@
 <!-- 🎵 SPOTIFY NOW PLAYING -->
 <h3 align="center">🎧 Currently Vibing To</h3>
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0D1117&border_color=FFFFFF" alt="Spotify Now Playing"/>
+ [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgbx2hyxtomfbbhxdibou5lh7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)Playing"/>
 </div>
 
 <!-- 🛠️ TECH STACK -->
