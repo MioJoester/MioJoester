@@ -7,7 +7,7 @@
 
 <!-- 🎯 TYPING ANIMATION INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3500&pause=1000&color=00F5D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=3500&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing Animation"/>
 </p>
 
 <!-- 🎭 QUICK INTRO -->
@@ -50,7 +50,7 @@
 </table>
 
 <!-- 🚀 LATEST ACTIVITY -->
-<h3 align="center">🌟 Recent Activity Magic</h3>
+<h3 align="center">Recent Activity</h3>
 
 <!-- 📅 GITHUB ACTIVITY GRAPH -->
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MioJoester&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
