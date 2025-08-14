@@ -99,7 +99,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!-- 📱 CONNECT WITH ME -->
-![lottie](https://assets2.lottiefiles.com/packages/lf20_w51pcehl.json)
+
 
 <!-- 🌟 FOOTER -->
 <div align="center">
