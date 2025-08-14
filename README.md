@@ -52,7 +52,10 @@
 <h3 align="center">🚀 Tech Arsenal</h3>
 
 <div align="center">
-  
+
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgbx2hyxtomfbbhxdibou5lh7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
