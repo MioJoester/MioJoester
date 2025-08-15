@@ -62,7 +62,7 @@
 
 <h3 align="center">Tech</h3>
 
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,firebase,tailwind,php,nodejs,git,mysql,mongodb,linux,arch,windows " />
   </a>
