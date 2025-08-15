@@ -71,12 +71,20 @@
 
 <div align="center">
 
-```bash
-> npx create-legendary-dev
-✔ Cloning repositories...
-✔ Installing dependencies...
-✔ Summoning coffee...
-⚡ Ready to deploy greatness!
+```html
+
+
+<!-- Welcome to my GitHub Profile -->
+<section id="intro">
+  <h1>🚀 Hello, I'm MioJoester</h1>
+  <p>Building cool stuff with modern web & systems tech</p>
+  <a href="https://github.com/MioJoester" target="_blank">
+    <button>⭐ Check my repos</button>
+  </a>
+</section>
+
+
+
 ```
 </div>
 
