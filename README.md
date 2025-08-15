@@ -64,16 +64,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Fila 1 -->
     <img src="https://skillicons.dev/icons?i=html,css,js,c,java" />
-    <br>
-    <!-- Fila 2 -->
     <img src="https://skillicons.dev/icons?i=,php,nodejs,git,mysql,mongodb" />
-    <br>
-    <!-- Fila 3 -->
     <img src="https://skillicons.dev/icons?i=bootstrap,windows,ubuntu,debian,linux" />
-    <br/>
-    <!-- Fila 4 -->
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,markdown,instagram" />
   </a>
 </p>
