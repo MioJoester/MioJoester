@@ -60,7 +60,23 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MioJoester&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
 
 
+<h3 align="center">Tech</h3>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <!-- Fila 1 -->
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java" />
+    <br/>
+    <!-- Fila 2 -->
+    <img src="https://skillicons.dev/icons?i=,php,nodejs,git,mysql,mongodb" />
+    <br/>
+    <!-- Fila 3 -->
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,windows,ubuntu,debian,linux,arch" />
+    <br/>
+    <!-- Fila 4 -->
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,markdown,instagram" />
+  </a>
+</p>
 
 
 
@@ -73,20 +89,7 @@
   
  </div>
 
-<!-- 🛠️ TECH STACK -->
-<h3 align="center">🚀 Tech Arsenal</h3>
 
-<div align="center">
-
-
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</div>
 
 
   
