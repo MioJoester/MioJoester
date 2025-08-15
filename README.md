@@ -86,6 +86,10 @@
 
 
 ```
+
+```java
+System.out.println("Java is a cool language btw!");
+```
 </div>
 
 
