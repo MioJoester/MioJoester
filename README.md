@@ -64,10 +64,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,firebase,tailwind" />
-    <img src="https://skillicons.dev/icons?i=,php,nodejs,git,mysql,mongodb" />
-    <img src="https://skillicons.dev/icons?i=bootstrap,windows,ubuntu,debian,linux" />
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,markdown,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,java,supabase,firebase,tailwind,php,nodejs,git,mysql,mongodb,linux,arch,windows " />
   </a>
 </p>
 
