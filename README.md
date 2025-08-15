@@ -68,10 +68,10 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,c,java" />
     <br/>
     <!-- Fila 2 -->
-    <img src="https://skillicons.dev/icons?i=,php,nodejs,git,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=,php,nodejs,git,mysql,mongodb,supabase" />
     <br/>
     <!-- Fila 3 -->
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,windows,ubuntu,debian,linux,arch" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,windows,ubuntu,debian,linux,arch" />
     <br/>
     <!-- Fila 4 -->
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github,markdown,instagram" />
