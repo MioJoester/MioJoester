@@ -80,7 +80,7 @@
 System.out.println("Java is a cool language btw!");
 ```
 ```c
-printf("Cant forget the og language ;) )";
+printf("Cant forget the og language ;] )";
 ```
 </div>
 
