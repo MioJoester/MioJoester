@@ -66,10 +66,10 @@
   <a href="https://skillicons.dev">
     <!-- Fila 1 -->
     <img src="https://skillicons.dev/icons?i=html,css,js,c,java" />
-    <br/>
+    <br>
     <!-- Fila 2 -->
     <img src="https://skillicons.dev/icons?i=,php,nodejs,git,mysql,mongodb" />
-    <br/>
+    <br>
     <!-- Fila 3 -->
     <img src="https://skillicons.dev/icons?i=bootstrap,windows,ubuntu,debian,linux" />
     <br/>
