@@ -69,6 +69,18 @@
 </p>
 
 
+<div align="center">
+
+```bash
+> npx create-legendary-dev
+✔ Cloning repositories...
+✔ Installing dependencies...
+✔ Summoning coffee...
+⚡ Ready to deploy greatness!
+```
+</div>
+
+
 
 
 <!-- 🎵 SPOTIFY NOW PLAYING -->
