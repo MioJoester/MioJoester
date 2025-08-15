@@ -60,7 +60,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MioJoester&bg_color=0D1117&color=00F5D4&line=00F5D4&point=FFFFFF&area=true&hide_border=true)
 
 
-<h3 align="center">Tech</h3>
+<h3 align="center"> MY TECH STACK</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
