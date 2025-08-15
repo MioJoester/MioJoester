@@ -72,12 +72,15 @@
 <div align="center">
 
 ```html
-  <p>Building cool stuff with modern web & systems tech</p>
-  <a href="https://github.com/MioJoester" target="_blank">
+<p>Building cool stuff with modern web & systems tech</p>
+<a href="https://github.com/MioJoester" target="_blank">
 ```
 
 ```java
 System.out.println("Java is a cool language btw!");
+```
+```c
+printf("Cant forget the og language ;) )";
 ```
 </div>
 
