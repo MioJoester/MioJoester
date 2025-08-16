@@ -17,7 +17,11 @@
 
 <h4 align="center"> Featured Projects</h4>
 
-[![AI App Preview](/Asset/Final.png)](https://neura-new-era.vercel.app/home.html)
+<p align="center"> 
+  <a href="https://neura-new-era.vercel.app" target="blank">
+  <img align="center" src="https://neura-new-era.vercel.app/Asset/Final.png" alt="Neura AI" />
+  </a>
+</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Home&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Time&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Time)
