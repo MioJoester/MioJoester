@@ -17,7 +17,7 @@
 
 <h4 align="center"> Featured Projects</h4>
 
-<img src="https://github.com/MioJoester/MioJoester/raw/main/Asset/Final.png" alt="Final Image" width="200" />
+![Test](https://via.placeholder.com/200x100)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Home&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Time&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Time)
