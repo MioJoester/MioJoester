@@ -17,13 +17,13 @@
 
 <h2 align="center"> Featured Projects</h2>
 
-<a href="https://neura-new-era.vercel.app/home.html">
 <div style="width: 100%; text-align: center; margin: 0 auto; font-family: Arial, sans-serif;">
   
   <!-- Full-screen image -->
+  <a href="https://neura-new-era.vercel.app/home.html">
   <img src="https://github.com/MioJoester/MioJoester/raw/main/Asset/Final .png" 
        style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px;"/>
-
+  </a>
   <!-- Heading -->
   <h1 style="margin-top: 40px; color: #2d3748; font-size: 3em;">Neura AI</h1>
 
@@ -34,8 +34,7 @@
     solutions for complex challenges across industries.
   </p>
 
-</div>]
-</a>
+</div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Home&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Time&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Time)
