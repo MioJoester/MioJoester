@@ -25,13 +25,24 @@
        style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px;"/>
   </a>
   <!-- Heading -->
-  <h1 style="margin-top: 40px; color: #2d3748; font-size: 3em;">Neura AI</h1>
+   <h1 style="margin: 40px 0 20px 0; 
+             font-size: 3.5em; 
+             background: linear-gradient(90deg, #2563eb 0%, #7c3aed 50%, #db2777 100%);
+             -webkit-background-clip: text;
+             color: transparent;">
+    Neura AI
+  </h1>
 
-  <!-- Description -->
-  <p style="max-width: 800px; margin: 20px auto; color: #4a5568; font-size: 1.2em; line-height: 1.6;">
-    Neura AI represents the next generation of artificial intelligence, blending cognitive computing 
-    with human-like intuition. Our technology adapts, learns, and evolves to provide seamless 
-    solutions for complex challenges across industries.
+  <!-- Dynamic description -->
+  <p style="max-width: 800px; margin: 0 auto 40px auto; 
+            color: #334155; 
+            font-size: 1.3em;
+            line-height: 1.7;
+            padding: 0 20px;">
+    <strong>Neura AI</strong> redefines intelligent systems with dual-core capabilities:<br><br>
+    💻 <span style="color: #2563eb;">Code Generation</span> - Writes, debugs, and optimizes code in any language<br>
+    🎨 <span style="color: #7c3aed;">Visual Creation</span> - Generates high-quality images from textual descriptions<br><br>
+    Powered by multimodal architecture that understands both logic and creativity.
   </p>
 
 </div>
