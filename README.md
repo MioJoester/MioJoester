@@ -21,8 +21,8 @@
 <div style="width: 100%; text-align: center; margin: 0 auto; font-family: Arial, sans-serif;">
   
   <!-- Full-screen image -->
-  <img src="https://github.com/MioJoester/MioJoester/raw/main/Asset/Final.png" 
-       style="width: 100%; max-height: 90vh; object-fit: cover; border-radius: 8px;"/>
+  <img src="https://github.com/MioJoester/MioJoester/raw/main/Asset/Final .png" 
+       style="width: 100%; max-height: 200px; object-fit: cover; border-radius: 8px;"/>
 
   <!-- Heading -->
   <h1 style="margin-top: 40px; color: #2d3748; font-size: 3em;">Neura AI</h1>
