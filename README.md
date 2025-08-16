@@ -46,7 +46,7 @@
   </p>
 
   <a href="https://neura-new-era.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/▶️_Launch_Neura_AI-000000?style=for-the-badge&logo=rocket&logoColor=black" alt="Launch Neura AI">
+  <img src="https://img.shields.io/badge/Visit_Neura_AI-ffffff?style=for-the-badge&logo=rocket&logoColor=black" alt="Launch Neura AI">
 </a>
 
 </div>
