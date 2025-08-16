@@ -17,7 +17,7 @@
 
 <h2 align="center"> Featured Projects</h2>
 
-
+<a href="https://neura-new-era.vercel.app/home.html">
 <div style="width: 100%; text-align: center; margin: 0 auto; font-family: Arial, sans-serif;">
   
   <!-- Full-screen image -->
@@ -34,7 +34,8 @@
     solutions for complex challenges across industries.
   </p>
 
-</div>
+</div>]
+</a>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Home&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Time&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Time)
