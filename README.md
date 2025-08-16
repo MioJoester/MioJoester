@@ -39,7 +39,7 @@
             font-size: 1.3em;
             line-height: 1.7;
             padding: 0 20px;">
-    <strong>Neura AI</strong> redefines intelligent systems with dual-core capabilities:<br><br>
+    <strong>Neura AI</strong> An AI assistant app made with focus to make your work easy:<br><br>
     💻 <span style="color: #2563eb;">Code Generation</span> - Writes, debugs, and optimizes code in any language<br>
     🎨 <span style="color: #7c3aed;">Embeded Editor</span> - Neura has integrated code editor to quickly check out code snippets. <br><br>
     Powered by multimodal architecture, wih help of <a href="https://console.groq.com/home">Groq</a> and <a href="https://openrouter.ai">Openrouter</a>.
