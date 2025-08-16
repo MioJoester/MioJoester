@@ -41,8 +41,8 @@
             padding: 0 20px;">
     <strong>Neura AI</strong> redefines intelligent systems with dual-core capabilities:<br><br>
     💻 <span style="color: #2563eb;">Code Generation</span> - Writes, debugs, and optimizes code in any language<br>
-    🎨 <span style="color: #7c3aed;">Visual Creation</span> - Generates high-quality images from textual descriptions<br><br>
-    Powered by multimodal architecture that understands both logic and creativity.
+    🎨 <span style="color: #7c3aed;">Embeded Editor</span> - Neura has integrated code editor to quickly check out code snippets. <br><br>
+    Powered by multimodal architecture, wih help of <a href="https://console.groq.com/home">Groq</a> and <a href="openrouter.ai">Openrouter</a>.
   </p>
 
 </div>
