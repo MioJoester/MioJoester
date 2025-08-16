@@ -50,8 +50,7 @@
 </a>
 
 </div>
-
-<div style="height:50px;"></div>
+<div style="height: 50px; text-align: center; margin: 0 auto; font-family: Arial, sans-serif;">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Home&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Time&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Time)
