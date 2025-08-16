@@ -15,7 +15,7 @@
 
 
 
-<h2 align="center"> Featured Projects</h2>
+<h2 align="center"> My Projects</h2>
 
 <div style="width: 100%; text-align: center; margin: 0 auto; font-family: Arial, sans-serif;">
   
