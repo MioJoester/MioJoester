@@ -46,10 +46,12 @@
   </p>
 
   <a href="https://neura-new-era.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/▶️_Launch_Neura_AI-00F5D4?style=for-the-badge&logo=rocket&logoColor=black" alt="Launch Neura AI">
+  <img src="https://img.shields.io/badge/▶️_Launch_Neura_AI-000000?style=for-the-badge&logo=rocket&logoColor=black" alt="Launch Neura AI">
 </a>
 
 </div>
+
+<div style="height:50px;"></div>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Home&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Home)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MioJoester&repo=Dreamy-Time&theme=tokyonight)](https://github.com/MioJoester/Dreamy-Time)
