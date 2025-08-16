@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://neura-new-era.vercel.app" target="_blank">
-    <img src="https://neura-new-era.vercel.app/Asset/Final.png" alt="Neura AI" width="640"/>
+    <img src="./Asset/Final.png" alt="Neura AI" width="640"/>
   </a>
 </p>
 
