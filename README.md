@@ -75,7 +75,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MioJoester&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MioJoester&theme=react&hide_border=true&background=0D1117" alt="Streak Stats"/>
+    
     </td>
   </tr>
   <tr>
