@@ -80,6 +80,9 @@
     <td colspan="2">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
     </td>
+    <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=MioJoester&theme=react&hide_border=true&background=0D1117" alt="Streak Stats"/>
+    </td>
   </tr>
 </table>
 
