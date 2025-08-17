@@ -85,8 +85,7 @@
 </table>
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MioJoester&theme=react&hide_border=true&background=0D1117" alt="Streak Stats"/>
-
+ 
 
 
 <!-- 🚀 LATEST ACTIVITY -->
