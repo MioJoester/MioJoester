@@ -64,6 +64,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=MioJoester&theme=react&hide_border=true&background=0D1117)](https://git.io/streak-stats)
 
+![Metrics](https://metrics.lecoq.io/MioJoester?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&notable=1&achievements=1&lines=1&stars=1&theme=react)
 
 
 </div>
