@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Featured Project: **Neura AI**
+## 🚀 My Project
 <div align="center">
 
 <a href="https://neura-new-era.vercel.app/home.html">
