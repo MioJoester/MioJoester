@@ -86,5 +86,14 @@
 ```
 </div>
 
+<h3 align="center">🎧 Currently Vibing To</h3>
+<div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wgbx2hyxtomfbbhxdibou5lh7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
+  
+ </div>
+
+
+
 <p align="center"> <a href="https://github.com/MioJoester"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mananthaker2505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 <!-- 🌟 FOOTER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=45" alt="Footer"/> <br> <sub>✨ Crafted with ❤️ & GitHub Magic ✨</sub> </div>
