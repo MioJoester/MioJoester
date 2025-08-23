@@ -63,7 +63,7 @@
 <!-- 📊 GITHUB STATS CARDS -->
 <div align="center">
   
-<!-- 🏆 TROPHY SECTION -->
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=MioJoester&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=8&margin-h=8)
 
 </div>
