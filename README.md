@@ -76,7 +76,7 @@
 
 ## 🛠️ My Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/iconsi=html,css,js,c,java,supabase,firebase,vercel,tailwind,nextjs,react,php,nodejs,svelte,github,mysql,mongodb,linux,arch,windows,android" />
+  <img src="https://skillicons.dev/icons=html,css,js,c,java,supabase,firebase,vercel,tailwind,nextjs,react,php,nodejs,svelte,github,mysql,mongodb,linux,arch,windows,android" />
 </p>
 
 <div align="center">
