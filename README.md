@@ -58,10 +58,6 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MioJoester&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" height="150" alt="Top Languages"/>
-
   <div align="center">
     <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=MioJoester&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
