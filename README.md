@@ -61,7 +61,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MioJoester&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" height="150" alt="Top Languages"/>
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MioJoester&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MioJoester)](https://git.io/streak-stats)
 
 
 
