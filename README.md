@@ -52,7 +52,7 @@
 
 
 
-![GitHub streak](https://streak-stats.demolab.com/?user=MioJoester&theme=react&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=MioJoester&theme=aura-dark&hide_border=true&border_radius=6.3" />
 
 </div>
 
