@@ -51,8 +51,7 @@
 <div align="center">
 
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MioJoester&theme=radical&hide_border=true&border_radius=6.3)
+![GitHub Streak](https://streak-stats.vercel.app?user=MioJoester&theme=radical&hide_border=true)
 </div>
 
 ---
