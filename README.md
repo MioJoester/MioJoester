@@ -47,10 +47,12 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub stats
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MioJoester&theme=onedark&no-frame=true&no-bg=true&column=3&margin-w=10&margin-h=10)
+
+
+![GitHub streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react&hide_border=true)
 
 </div>
 
@@ -63,11 +65,8 @@
       <img height="192px" src="https://github-readme-stats.vercel.app/api?username=MioJoester&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
 
   </div>
-  <div align="center">
-      ![GitHub streak](https://streak-stats.demolab.com/?user=MioJoester&theme=react&hide_border=true)
-     
-  </div>
 
+      
 
 
 </div>
