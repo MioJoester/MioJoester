@@ -62,9 +62,17 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MioJoester&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&layout=donut&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" height="150" alt="Top Languages"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MioJoester&theme=react&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+  <div align="center">
+    <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
+      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=K1rsN7&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+<!--       <img src="https://wakatime.com/share/@K1rsN7/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+  </div>
+  <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MIoJoester&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
+  <a href="https://github.com/K1rsN7/K1rsN7"><img alt="K1rsN7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=K1rsN7&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+ 
+  </div>
 
-![Metrics](https://metrics.lecoq.io/MioJoester?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&notable=1&achievements=1&lines=1&stars=1&theme=react)
 
 
 </div>
