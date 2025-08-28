@@ -95,5 +95,5 @@
  </div>
  
 
-<p align="center"> <a href="https://github.com/MioJoester"><img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="mailto:mananthaker2505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
+<p align="center"> <a href="https://github.com/MioJoester"><img src="https://img.shields.io/badge/Vercel-121013?style=for-the-badge&logo=Website&logoColor=white" /></a> <a href="mailto:mananthaker2505@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> </p>
 <!-- 🌟 FOOTER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=45" alt="Footer"/> <br> <sub>✨ Crafted with ❤️ & GitHub Magic ✨</sub> </div>
