@@ -5,7 +5,7 @@
 
 <!-- 🎯 TYPING ANIMATION INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3500&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Web+Developer;AI+Enthusiast;Open+Source+Contributor;Creative+Problem+Solver" alt="Typing Animation"/>
 </p>
 
 <h4 align="center">🔭 I turn coffee into code and ideas into reality</h4>
