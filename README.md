@@ -28,7 +28,7 @@
 </h1>
 
 <p align="center" style="max-width: 800px; margin: 0 auto; color:#334155; font-size:1.1em; line-height:1.6;">
-  <strong>Neura AI</strong> is an assistant app designed to simplify your workflow:
+  <strong>Neura AI</strong> is an assistant  designed to simplify your workflow:
 </p>
 
 - 😎 <span style="color:#2563eb;">Great for chats</span> → Talks in any style: funny, sarcastic, or chill  
