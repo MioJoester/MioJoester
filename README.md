@@ -15,15 +15,13 @@
 ## 🚀 My Project
 <div align="center">
 
-<a href="https://neura-new-era.vercel.app/home.html">
-  <img src="https://github.com/MioJoester/MioJoester/raw/main/Asset/Final%20.png" 
-       alt="Neura AI Preview"
-       style="width:100%; max-height:220px; object-fit:cover; border-radius:10px;"/>
-</a>
+
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #2563eb, #7c3aed, #db2777); -webkit-background-clip: text; color: transparent;">
-    Neura AI
+   <a href="https://neura-new-era.vercel.app/home.html">
+
+ Neura AI </a>
   </span>
 </h1>
 
