@@ -65,7 +65,7 @@
 <div align="center">
   <div align="center">
     <img height="192px" alt="K1rsN7's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MioJoester&theme=omni&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=MioJoester&theme=omni&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
+      <img height="192px"          src="https://github-readme-stats.vercel.app/api?username=MioJoester&show_icons=true&theme=radical&hide_border=true" />
 
   </div>
 
