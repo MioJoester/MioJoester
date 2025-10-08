@@ -27,7 +27,7 @@
 </h1>
 
 <p align="center" style="max-width: 800px; margin: 0 auto; color:#334155; font-size:1.1em; line-height:1.6;">
-  <strong>Neura AI</strong> is an assistant  designed to simplify your workflow:
+  <strong>Neura AI</strong> Ignite ideas with seamless search, image creation, and multi-model AI inference.
 </p>
 - 💬 <span style="color:#2563eb;">Multi model</span> → chat with Kimi K2 and qwen3-32b on Neura <br>
 - 😎 <span style="color:#2563eb;">Great for chats</span> → Talks in any style: funny, sarcastic, or chill  <br>
