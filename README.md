@@ -36,7 +36,7 @@
 - 🎨 <span style="color:#7c3aed;">Embedded Editor</span> → Quickly test snippets without switching apps  <br>
 
 <p align="center">
-  ⚡ Powered by <a href="https://console.groq.com/home">Groq</a> + <a href="https://openrouter.ai">OpenRouter</a>
+  ⚡ Powered by <a href="https://console.groq.com/home">Groq</a> + <a href="https://openrouter.ai">OpenRouter</a> +  <a href="https://huggingface.co/">Hugging_face</a>
 </p>
 
 <a href="https://neura-new-era.vercel.app" target="_blank">
