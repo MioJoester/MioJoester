@@ -30,6 +30,7 @@
   <strong>Neura AI</strong> Ignite ideas with seamless search, image creation, and multi-model AI inference.
 </p>
 - 💬 <span style="color:#2563eb;">Multi model</span> → chat with Kimi K2 and qwen3-32b on Neura <br>
+- 🏙️ <span style="color:#2563eb;">Neura Imagine </span> → create images with hugging face inference API's <br>
 - 😎 <span style="color:#2563eb;">Great for chats</span> → Talks in any style: funny, sarcastic, or chill  <br>
 - 💻 <span style="color:#2563eb;">Code Generation</span> → Writes, debugs & optimizes code in any language  <br>
 - 🎨 <span style="color:#7c3aed;">Embedded Editor</span> → Quickly test snippets without switching apps  <br>
