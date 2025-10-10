@@ -26,7 +26,7 @@
   </span>
 </h1>
 
-<p align="left" style="max-width: 800px; margin: 0 auto; color:#334155; font-size:1.1em; line-height:1.6;">
+<p align="center" style="max-width: 800px; margin: 0 auto; color:#334155; font-size:1.1em; line-height:1.6;">
   <strong>Neura AI</strong> Ignite ideas with seamless search, image creation, and multi-model AI inference.
 </p>
 - 💬 <span style="color:#2563eb;">Multi model</span> → chat with Kimi K2 and qwen3-32b on Neura <br>
