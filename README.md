@@ -15,7 +15,7 @@
 ## 🚀 My Project
 <div align="center">
 
- <img src="https://neura-new-era.vercel.app/Asset/Final .png"/>
+ <img src="https://neura-new-era.vercel.app/Asset/banner-poster.png"/>
 
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #2563eb, #7c3aed, #db2777); -webkit-background-clip: text; color: transparent;">
