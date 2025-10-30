@@ -12,38 +12,7 @@
 
 ---
 
-## 🚀 My Project
-<div align="center">
 
- <img src="https://neura-new-era.vercel.app/Asset/banner-poster.png"/>
-
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #2563eb, #7c3aed, #db2777); -webkit-background-clip: text; color: transparent;">
-   <a href="https://neura-new-era.vercel.app/home.html">
-
-
- Neura AI </a>
-  </span>
-</h1>
-
-<p align="center" style="max-width: 800px; margin: 0 auto; color:#334155; font-size:1.1em; line-height:1.6;">
-  <strong>Neura AI</strong> Ignite ideas with seamless search, image creation, and multi-model AI inference.
-</p>
-- 💬 <span style="color:#2563eb;">Multi model</span> → chat with Kimi K2 and qwen3-32b on Neura <br>
-- 🏙️ <span style="color:#2563eb;">Neura Imagine </span> → create images with hugging face inference API's <br>
-- 😎 <span style="color:#2563eb;">Great for chats</span> → Talks in any style: funny, sarcastic, or chill  <br>
-- 💻 <span style="color:#2563eb;">Code Generation</span> → Writes, debugs & optimizes code in any language  <br>
-- 🎨 <span style="color:#7c3aed;">Embedded Editor</span> → Quickly test snippets without switching apps  <br>
-
-<p align="center">
-  ⚡ Powered by <a href="https://console.groq.com/home">Groq</a> + <a href="https://openrouter.ai">OpenRouter</a> +  <a href="https://huggingface.co/">Hugging_face</a>
-</p>
-
-<a href="https://neura-new-era.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Visit_Neura_AI-2563eb?style=for-the-badge&logo=rocket&logoColor=white" alt="Launch Neura AI"/>
-</a>
-
-</div>
 
 ---
 
